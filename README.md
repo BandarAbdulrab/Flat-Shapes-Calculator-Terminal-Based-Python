@@ -17,15 +17,12 @@ Terminal-based Python program designed to calculate the area and perimeter of va
 ## How to use
 1. Clone the repository or download the Python file
 2. Run the program using Python 3
-3. Use the menu to perform operations:
-- Option 1: View all tasks with their details and status
-- Option 2: Add a new task with description, times, deadline, priority, category, and status
-- Option 3: Edit an existing task by entering its number and updating fields
-- Option 4: Delete a task by entering its number
-- Option 5: Exit the program
-4. Tasks are automatically saved to two files:
-- Tasks File(Code Formated).txt: Stores tasks in a code-friendly format
-- Tasks File(Readable Formated).txt: Stores tasks in a human-readable format
+3. Select an operation by entering the corresponding number (1-10)
+4. Enter the required numbers based on the selected operation:
+- For operations 1-5, 8, 9, 10: Enter two integers
+- For operation 6: Enter a percentage and a number
+- For operation 7: Enter a number
+5. The program will display the result of the operation
 
 ## Project History
 This project was originally submitted for my Computer Science 2 class during the second semester of 2nd grade at Ishbelia Secondary School.
